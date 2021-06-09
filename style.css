@@ -1,0 +1,38 @@
+.heading{
+font-size : 24px;
+width: 100%;
+margin: 0;
+box-shadow: 5px 5px 5px slategray ;
+font-family: 'Oswald', sans-serif;
+}
+.heading_div{
+float:none;
+background: slateblue;
+padding: 10px;
+border: radius 20px;
+color:white;
+box-shadow: 5px 5px 5px slategray;
+}
+.heading_div2{
+font-size: 20px;
+}
+.result_para_tag{
+box-shadow: 5px 5px 5px silver;
+font-size: 20px;
+}
+.copy_right_footer{
+position:fixed;
+color: white;
+background-color: slateblue;
+bottom:0;
+text-align: center;
+width:100%;
+line-height: 3;
+
+}
+canvas{
+border:5px dashed aliceblue;
+border-radius: 20px;
+box-shadow: 5px 5px 5px silver;
+margin-top: 100px;
+}
